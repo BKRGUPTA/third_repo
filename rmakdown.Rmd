@@ -2,7 +2,7 @@
 title: "Untitled"
 output: html_document
 ---
-
+"test for my firt intro about the corner and mmm mmodelinfjnk
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
